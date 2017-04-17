@@ -1,0 +1,11 @@
+{
+  "name": "ait-homework-02",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
